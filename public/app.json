@@ -1,0 +1,578 @@
+[
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/733/733585.png",
+        "title": "WhatsApp Chat Messenger Platform",
+        "companyName": "Meta",
+        "id": 1,
+        "description": "WhatsApp Messenger is a global communication platform designed to make messaging simple, fast, and secure. Users can send text messages, voice notes, photos, documents, and videos instantly over the internet without traditional SMS costs. End-to-end encryption ensures that every conversation remains private between the sender and receiver.\n\nBeyond basic messaging, WhatsApp also supports high-quality voice and video calls for both individuals and groups. Communities and group chats make it easy to organize discussions with family, friends, or colleagues.\n\nWith status updates, media sharing, and seamless cross-platform support, WhatsApp has become an essential communication tool used by billions of people around the world.",
+        "descrip_1": "Create fun short videos and explore viral trends.",
+        "descrip_2": "A creative video platform for entertainment and storytelling.",
+        "descrip_3": "Discover trending challenges and share your unique content.",
+        "size": 85,
+        "reviews": 18245000,
+        "ratingAvg": 4.3,
+        "downloads": 5000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 30000
+            },
+            {
+                "name": "2 star",
+                "count": 50000
+            },
+            {
+                "name": "3 star",
+                "count": 210000
+            },
+            {
+                "name": "4 star",
+                "count": 620000
+            },
+            {
+                "name": "5 star",
+                "count": 834500
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/2111/2111463.png",
+        "title": "Instagram Social Photo Video Platform",
+        "companyName": "Meta",
+        "id": 2,
+        "description": "Instagram is a visual social media platform where users share photos, videos, reels, and stories with friends and followers. It provides creative tools like filters, effects, and music to help users produce engaging content.\n\nReels allow creators to make short entertaining videos, while stories enable quick updates that disappear after 24 hours. The explore page recommends trending content tailored to your interests.\n\nWith millions of creators, influencers, and brands active daily, Instagram has become a powerful platform for creativity, digital expression, and global social interaction.",
+        "descrip_1": "Create fun short videos and explore viral trends.",
+        "descrip_2": "A creative video platform for entertainment and storytelling.",
+        "descrip_3": "Discover trending challenges and share your unique content.",
+        "size": 95,
+        "reviews": 15800000,
+        "ratingAvg": 4.4,
+        "downloads": 30000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 5000
+            },
+            {
+                "name": "2 star",
+                "count": 60000
+            },
+            {
+                "name": "3 star",
+                "count": 200000
+            },
+            {
+                "name": "4 star",
+                "count": 480000
+            },
+            {
+                "name": "5 star",
+                "count": 790000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/733/733547.png",
+        "title": "Facebook Social Chat Network Platform",
+        "companyName": "Meta",
+        "id": 3,
+        "description": "Facebook is a social networking platform designed to help people connect and share their lives online. Users can post updates, share photos and videos, and interact with friends through comments, reactions, and messaging.\n\nGroups and communities allow people with similar interests to discuss topics, collaborate, and exchange ideas. Marketplace adds a buying and selling experience directly inside the app.\n\nFrom personal connections to professional networking, Facebook continues to be one of the largest digital communities in the world.",
+        "descrip_1": "Create fun short videos and explore viral trends.",
+        "descrip_2": "A creative video platform for entertainment and storytelling.",
+        "descrip_3": "Discover trending challenges and share your unique content.",
+        "size": 90,
+        "reviews": 20300000,
+        "ratingAvg": 4.1,
+        "downloads": 5000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 110000
+            },
+            {
+                "name": "2 star",
+                "count": 130000
+            },
+            {
+                "name": "3 star",
+                "count": 350000
+            },
+            {
+                "name": "4 star",
+                "count": 620000
+            },
+            {
+                "name": "5 star",
+                "count": 760000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+        "title": "YouTube Video Streaming Platform",
+        "companyName": "Google",
+        "id": 4,
+        "description": "YouTube is the world’s largest video streaming platform, giving users access to billions of videos across entertainment, education, and technology. Viewers can watch content for free, subscribe to creators, and explore new videos through personalized recommendations.\n\nCreators can upload videos, host live streams, and build communities through comments and memberships. The platform also supports high-quality video playback and playlists.\n\nWhether you are learning new skills, enjoying music videos, or watching documentaries, YouTube delivers endless content for global audiences.",
+        "descrip_1": "Create fun short videos and explore viral trends.",
+        "descrip_2": "A creative video platform for entertainment and storytelling.",
+        "descrip_3": "Discover trending challenges and share your unique content.",
+        "size": 110,
+        "reviews": 32000000,
+        "ratingAvg": 4.2,
+        "downloads": 10000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300000
+            },
+            {
+                "name": "2 star",
+                "count": 400000
+            },
+            {
+                "name": "3 star",
+                "count": 600000
+            },
+            {
+                "name": "4 star",
+                "count": 950000
+            },
+            {
+                "name": "5 star",
+                "count": 1150000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/174/174872.png",
+        "title": "Spotify Music Podcast Streaming Platform",
+        "companyName": "Spotify",
+        "id": 5,
+        "description": "Spotify is a leading music and podcast streaming service that gives instant access to millions of songs from artists around the world. Users can explore albums, follow artists, and create personalized playlists for every mood.\n\nThe recommendation system learns from listening habits and suggests new music through features like Discover Weekly and Daily Mix.\n\nWith podcasts, offline listening, and cross-device synchronization, Spotify offers a powerful and personalized audio experience.",
+        "descrip_1": "Create fun short videos and explore viral trends.",
+        "descrip_2": "A creative video platform for entertainment and storytelling.",
+        "descrip_3": "Discover trending challenges and share your unique content.",
+        "size": 74,
+        "reviews": 6450000,
+        "ratingAvg": 4.5,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 25000
+            },
+            {
+                "name": "2 star",
+                "count": 26000
+            },
+            {
+                "name": "3 star",
+                "count": 80000
+            },
+            {
+                "name": "4 star",
+                "count": 230000
+            },
+            {
+                "name": "5 star",
+                "count": 290000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/732/732200.png",
+        "title": "Gmail Email Communication Platform",
+        "companyName": "Google",
+        "id": 6,
+        "description": "Gmail is Google’s powerful email platform designed to make communication organized and secure. Smart inbox filtering automatically categorizes emails into Primary, Social, and Promotions.\n\nBuilt-in spam protection keeps unwanted messages away, while advanced search helps you find emails instantly.\n\nWith seamless integration with Google Drive, Docs, and Meet, Gmail becomes a productivity hub for students, professionals, and businesses.",
+        "descrip_1": "Create fun short videos and explore viral trends.",
+        "descrip_2": "A creative video platform for entertainment and storytelling.",
+        "descrip_3": "Discover trending challenges and share your unique content.",
+        "size": 70,
+        "reviews": 10200000,
+        "ratingAvg": 4.4,
+        "downloads": 10000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 60000
+            },
+            {
+                "name": "2 star",
+                "count": 70000
+            },
+            {
+                "name": "3 star",
+                "count": 150000
+            },
+            {
+                "name": "4 star",
+                "count": 360000
+            },
+            {
+                "name": "5 star",
+                "count": 410000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/300/300221.png",
+        "title": "Google Drive Cloud Storage Platform",
+        "companyName": "Google",
+        "id": 7,
+        "description": "Google Drive is a cloud storage service that allows users to store files securely and access them from any device. Documents, photos, and videos can be uploaded instantly and organized into folders.\n\nIt supports real-time collaboration using Google Docs, Sheets, and Slides, allowing multiple users to work on the same document simultaneously.\n\nWith powerful sharing permissions and automatic syncing, Google Drive simplifies teamwork and digital file management.",
+        "descrip_1": "Create fun short videos and explore viral trends.",
+        "descrip_2": "A creative video platform for entertainment and storytelling.",
+        "descrip_3": "Discover trending challenges and share your unique content.",
+        "size": 65,
+        "reviews": 4800000,
+        "ratingAvg": 4.6,
+        "downloads": 5000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15000
+            },
+            {
+                "name": "2 star",
+                "count": 18000
+            },
+            {
+                "name": "3 star",
+                "count": 50000
+            },
+            {
+                "name": "4 star",
+                "count": 150000
+            },
+            {
+                "name": "5 star",
+                "count": 253000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/888/888879.png",
+        "title": "Netflix Movies Video Streaming Platform",
+        "companyName": "Netflix",
+        "id": 8,
+        "description": "Netflix is a global entertainment platform offering a vast collection of movies, TV series, documentaries, and original productions. Users can stream content instantly across smartphones, computers, and smart TVs.\n\nPersonalized recommendations help viewers discover shows based on their preferences.\n\nWith exclusive Netflix Originals and high-quality streaming, the platform has transformed the way audiences enjoy digital entertainment.",
+        "descrip_1": "Create fun short videos and explore viral trends.",
+        "descrip_2": "A creative video platform for entertainment and storytelling.",
+        "descrip_3": "Discover trending challenges and share your unique content.",
+        "size": 120,
+        "reviews": 8900000,
+        "ratingAvg": 4.3,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 45000
+            },
+            {
+                "name": "2 star",
+                "count": 55000
+            },
+            {
+                "name": "3 star",
+                "count": 120000
+            },
+            {
+                "name": "4 star",
+                "count": 310000
+            },
+            {
+                "name": "5 star",
+                "count": 380000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/3046/3046121.png",
+        "title": "TikTok Short Video Social Platform",
+        "companyName": "ByteDance",
+        "id": 9,
+        "description": "TikTok is a short-form video platform built for creativity and entertainment. Users can create engaging videos using music, filters, and visual effects.\n\nThe powerful recommendation algorithm quickly learns user preferences and delivers highly personalized content through the For You feed.\n\nFrom viral trends to educational clips, TikTok has become a global hub for creative expression and digital storytelling.",
+        "descrip_1": "Create fun short videos and explore viral trends.",
+        "descrip_2": "A creative video platform for entertainment and storytelling.",
+        "descrip_3": "Discover trending challenges and share your unique content.",
+        "size": 99,
+        "reviews": 27000000,
+        "ratingAvg": 4.4,
+        "downloads": 3000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 70000
+            },
+            {
+                "name": "2 star",
+                "count": 120000
+            },
+            {
+                "name": "3 star",
+                "count": 350000
+            },
+            {
+                "name": "4 star",
+                "count": 920000
+            },
+            {
+                "name": "5 star",
+                "count": 1230000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/2111/2111646.png",
+        "title": "Telegram Secure Chat Messenger Platform",
+        "companyName": "Telegram",
+        "id": 10,
+        "description": "Telegram is a fast and privacy-focused messaging app designed for secure communication. Users can send messages, media files, and documents instantly with powerful cloud synchronization.\n\nLarge groups and broadcast channels allow communities to connect with thousands of members.\n\nAdvanced features such as secret chats, bots, and customizable themes make Telegram a flexible messaging platform.",
+        "descrip_1": "A lightning-fast messaging app with powerful privacy tools.",
+        "descrip_2": "Chat securely with large groups and cloud-based messages.",
+        "descrip_3": "Send files, create channels, and communicate instantly.",
+        "size": 65,
+        "reviews": 11000000,
+        "ratingAvg": 4.6,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 30000
+            },
+            {
+                "name": "2 star",
+                "count": 20000
+            },
+            {
+                "name": "3 star",
+                "count": 90000
+            },
+            {
+                "name": "4 star",
+                "count": 320000
+            },
+            {
+                "name": "5 star",
+                "count": 640000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/3670/3670151.png",
+        "title": "Zoom Video Meeting Communication Platform",
+        "companyName": "Zoom",
+        "id": 11,
+        "description": "Zoom is a video communication platform designed for meetings, webinars, and remote collaboration. It enables high-quality video conferences with screen sharing and chat features.\n\nBusinesses and schools use Zoom for remote teamwork and virtual learning.\n\nWith stable video performance and intuitive controls, Zoom helps teams and communities stay connected from anywhere.",
+        "descrip_1": "Join high-quality video meetings for work and education.",
+        "descrip_2": "A reliable platform for webinars, team collaboration, and classes.",
+        "descrip_3": "Connect with colleagues and friends through online video calls.",
+        "size": 95,
+        "reviews": 4200000,
+        "ratingAvg": 4.3,
+        "downloads": 1000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20000
+            },
+            {
+                "name": "2 star",
+                "count": 38000
+            },
+            {
+                "name": "3 star",
+                "count": 70000
+            },
+            {
+                "name": "4 star",
+                "count": 150000
+            },
+            {
+                "name": "5 star",
+                "count": 162000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/2111/2111325.png",
+        "title": "Uber Ride Booking Travel Platform",
+        "companyName": "Uber",
+        "id": 12,
+        "description": "Uber is a ride-hailing service that connects passengers with drivers through a convenient mobile platform. Users can request rides instantly and track their driver in real time.\n\nThe app offers different ride categories ranging from affordable options to premium vehicles.\n\nSafety features, trip tracking, and driver ratings ensure a reliable travel experience in cities worldwide.",
+        "descrip_1": "Book rides instantly and travel safely around your city.",
+        "descrip_2": "A convenient transportation app for quick and reliable trips.",
+        "descrip_3": "Find nearby drivers and reach your destination comfortably.",
+        "size": 78,
+        "reviews": 5200000,
+        "ratingAvg": 4.2,
+        "downloads": 1000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 25000
+            },
+            {
+                "name": "2 star",
+                "count": 30000
+            },
+            {
+                "name": "3 star",
+                "count": 100000
+            },
+            {
+                "name": "4 star",
+                "count": 180000
+            },
+            {
+                "name": "5 star",
+                "count": 165000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/732/732208.png",
+        "title": "Google Maps Navigation Travel Platform",
+        "companyName": "Google",
+        "id": 13,
+        "description": "Google Maps is a powerful navigation app that helps users explore the world with real-time GPS directions. It provides routes for driving, walking, cycling, and public transport.\n\nLive traffic updates and estimated travel times help users choose the fastest route.\n\nIntegrated business listings, reviews, and location sharing make it an essential travel companion.",
+        "descrip_1": "Navigate the world with accurate GPS directions and maps.",
+        "descrip_2": "Find routes, nearby places, and real-time traffic updates.",
+        "descrip_3": "Explore cities and travel smarter with detailed navigation.",
+        "size": 102,
+        "reviews": 15000000,
+        "ratingAvg": 4.3,
+        "downloads": 10000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 40000
+            },
+            {
+                "name": "2 star",
+                "count": 65000
+            },
+            {
+                "name": "3 star",
+                "count": 260000
+            },
+            {
+                "name": "4 star",
+                "count": 520000
+            },
+            {
+                "name": "5 star",
+                "count": 575000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/888/888841.png",
+        "title": "Amazon Online Shopping Marketplace Platform",
+        "companyName": "Amazon",
+        "id": 14,
+        "description": "Amazon is one of the largest online marketplaces offering millions of products across categories such as electronics, fashion, and home essentials. Customers can browse items, read reviews, and order securely.\n\nFast shipping options and personalized product recommendations improve the shopping experience.\n\nWith reliable logistics and easy returns, Amazon has transformed global online commerce.",
+        "descrip_1": "Shop millions of products online with fast delivery.",
+        "descrip_2": "Browse deals, compare prices, and order items easily.",
+        "descrip_3": "A global marketplace for electronics, fashion, and more.",
+        "size": 88,
+        "reviews": 7800000,
+        "ratingAvg": 4.4,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 12000
+            },
+            {
+                "name": "2 star",
+                "count": 25000
+            },
+            {
+                "name": "3 star",
+                "count": 120000
+            },
+            {
+                "name": "4 star",
+                "count": 290000
+            },
+            {
+                "name": "5 star",
+                "count": 313000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/732/732229.png",
+        "title": "Google Photos Cloud Backup Platform",
+        "companyName": "Google",
+        "id": 15,
+        "description": "Google Photos is a smart photo storage service that automatically backs up and organizes images in the cloud. Users can search photos using keywords like locations, objects, or people.\n\nBuilt-in editing tools allow quick adjustments and enhancements.\n\nWith powerful sharing features and intelligent search, Google Photos turns your digital gallery into a well-organized memory archive.",
+        "descrip_1": "Automatically backup and organize your photos in the cloud.",
+        "descrip_2": "Store memories safely and access them from any device.",
+        "descrip_3": "Search, edit, and manage your image library effortlessly.",
+        "size": 80,
+        "reviews": 9000000,
+        "ratingAvg": 4.5,
+        "downloads": 5000000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10000
+            },
+            {
+                "name": "2 star",
+                "count": 20000
+            },
+            {
+                "name": "3 star",
+                "count": 90000
+            },
+            {
+                "name": "4 star",
+                "count": 300000
+            },
+            {
+                "name": "5 star",
+                "count": 460000
+            }
+        ]
+    },
+    {
+        "image": "https://cdn-icons-png.flaticon.com/512/888/888846.png",
+        "title": "Airbnb Travel Booking Platform",
+        "companyName": "Airbnb",
+        "id": 16,
+        "description": "Airbnb is a travel platform that connects travelers with unique homes and experiences around the world. Instead of traditional hotels, users can stay in apartments, cabins, or local homes.\n\nHosts provide detailed listings with photos, reviews, and pricing.\n\nBy offering authentic local stays and cultural experiences, Airbnb has redefined modern travel accommodation.",
+        "descrip_1": "Book unique homes and travel experiences worldwide.",
+        "descrip_2": "Find comfortable stays and explore destinations easily.",
+        "descrip_3": "Discover local accommodations for vacations and trips.",
+        "size": 92,
+        "reviews": 3600000,
+        "ratingAvg": 4.4,
+        "downloads": 500000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10000
+            },
+            {
+                "name": "2 star",
+                "count": 12000
+            },
+            {
+                "name": "3 star",
+                "count": 50000
+            },
+            {
+                "name": "4 star",
+                "count": 120000
+            },
+            {
+                "name": "5 star",
+                "count": 163000
+            }
+        ]
+    }
+]
