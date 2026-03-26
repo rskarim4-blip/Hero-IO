@@ -12,3 +12,4 @@ Using tecnology:
 7. daisy Ui
 8. tailwind
 
+link: https://thunderous-tartufo-0e2221.netlify.app
