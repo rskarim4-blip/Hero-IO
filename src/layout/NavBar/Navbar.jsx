@@ -46,7 +46,7 @@ const Navbar = () => {
                 </div>
                 <div className="navbar-end ">
 
-                    <Link to={'https://github.com/rabbani37'} target="true" className="btn bg-linear-to-br from-[#632EE3] to-[#9F62F2] text-white"><Github strokeWidth={1.7} /> Contribute</Link>
+                    <Link to={''} target="true" className="btn bg-linear-to-br from-[#632EE3] to-[#9F62F2] text-white"><Github strokeWidth={1.7} /> Contribute</Link>
                 </div>
             </div>
         </div>
